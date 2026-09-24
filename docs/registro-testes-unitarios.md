@@ -13,7 +13,7 @@ Data: 24/09/2026
 
 
 ## Resultado
-Passaram: 5
+Passaram: 6
 Falharam: 1
 
 ## Defeito encontrado
